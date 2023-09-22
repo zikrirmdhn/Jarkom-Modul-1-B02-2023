@@ -12,7 +12,8 @@
 ## Soal 2
 
     Untuk mendapatkan web server yang digunakan, kita gunakan filtar HTTP lalu cukup follow http untuk mendapatkan data yang dibutuhkan
-    <img width="1120" alt="Screenshot 2023-09-18 220619" src="https://github.com/zikrirmdhn/Jarkom-Modul-1-B02-2023/assets/97161145/4f54a88c-b032-46e9-a453-421165f1a13a">
+    <img width="1120" alt="Screenshot 2023-09-18 220619" src="https://github.com/zikrirmdhn/Jarkom-Modul-1-B02-2023/assets/97161145/223f25f6-4ad6-42bb-8c97-90fb79478bec">
+
 
 ## Soal 3
 
