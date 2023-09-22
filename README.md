@@ -11,8 +11,8 @@
 
 ## Soal 2
 
-    Untuk mendapatkan web server yang digunakan, kita gunakan filtar HTTP lalu cukup follow http untuk mendapatkan data yang dibutuhkan
-    <img width="1120" alt="Screenshot 2023-09-18 220619" src="https://github.com/zikrirmdhn/Jarkom-Modul-1-B02-2023/assets/97161145/223f25f6-4ad6-42bb-8c97-90fb79478bec">
+Untuk mendapatkan web server yang digunakan, kita gunakan filtar HTTP lalu cukup follow http untuk mendapatkan data yang dibutuhkan
+    
 
 
 ## Soal 3
@@ -25,12 +25,12 @@
 
 ## Soal 7
 
-    Untuk mendapatkan jumlah packet yang menuju IP 184.87.193.88, filter menggunakan ip.dst == 184.87.193.88
-    <img width="1119" alt="Screenshot 2023-09-18 200702" src="https://github.com/zikrirmdhn/Jarkom-Modul-1-B02-2023/assets/97161145/654028ef-08fa-4f13-a6b3-d39f408c8250">
+Untuk mendapatkan jumlah packet yang menuju IP 184.87.193.88, filter menggunakan ip.dst == 184.87.193.88
+    
 
 ## Soal 8
 
-    Filter untuk mendapatkan semua protokol paket yang menuju port 80 adalah tcp.dstport == 80 || udp.dstport == 80
+Filter untuk mendapatkan semua protokol paket yang menuju port 80 adalah tcp.dstport == 80 || udp.dstport == 80
     
 ## Soal 9
 
