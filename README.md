@@ -65,6 +65,10 @@ c) 74.53.140.153
 
 ## Soal 6
 
+Substitusi source address dari paket 7812 dengan clue a1 e5 u21 sesuai urutan 
+alfabet. Dengan source address 104.18.14.101 maka 10=j 4=d 18=r 14=n 1=a 
+ditemukan: JDRNJA
+
 ## Soal 7
 
 Untuk mendapatkan jumlah packet yang menuju IP 184.87.193.88, filter menggunakan ip.dst == 184.87.193.88
